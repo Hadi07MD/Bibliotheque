@@ -6,7 +6,7 @@ class Work {
     date;
     language;
     type;
-
+   
 //   get id(){
 //       return this.id;
 //   }
